@@ -1,0 +1,22 @@
+/* colores con css
+ */
+
+
+.rojo{
+  background-color: firebrick;
+}
+.rosa{
+  background-color: hotpink;
+}
+.rojo, .rosa{
+  color: white;
+}
+.amarillo{
+  background-color: gold;
+}
+.violeta{
+  background-color: blueviolet;
+}
+.verde{
+  background-color: lime;
+}
