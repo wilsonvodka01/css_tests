@@ -1,5 +1,5 @@
-*{
-  background: aqua;
+/* *{
+  background: rgb(88, 197, 197);
 }
 .clases{
   color: bisque;
@@ -13,4 +13,8 @@
 }
 .textos{
   font-size: 40px;
+} */
+
+h1, h2, p {
+  color: red;
 }
