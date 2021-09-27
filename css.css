@@ -1,7 +1,16 @@
-
-#titulo{
-  color: aqua;
+*{
+  background: aqua;
 }
 .clases{
   color: bisque;
+}
+.centrar{
+  text-align: center;
+}
+.titulo{
+  font-size: 100px;
+  color: red;
+}
+.textos{
+  font-size: 40px;
 }
